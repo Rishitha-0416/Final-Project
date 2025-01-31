@@ -1,2 +1,2 @@
-# Week-1
+# Week-2
 Waste Classification CNN Model
